@@ -11,12 +11,9 @@ In a competitive telecom market, SyriaTel faces a critical business problem whic
 
 
 ## Methodology<a name="methodology"></a>
-T
+
 
 ## Modeling<a name="modeling"></a>
-
-
-## Key takeways:
 
 
 ## Conclusion<a name="conclusion"></a>
@@ -41,9 +38,11 @@ The analysis was conducted using Python with the following libraries:
 5. Sklearn
    
 ## Folder Structure<a name="folder-structure"></a>
+|- ipynb_checkpoints
+
 |- Data
 
-     |-Telecom
+     |-Telecom.csv
 
 |- README.md
   
@@ -74,4 +73,4 @@ To use this project:
 
 ## License<a name="license"></a>
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed - see the [LICENSE](LICENSE) file for details.

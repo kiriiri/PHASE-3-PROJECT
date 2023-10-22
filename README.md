@@ -74,8 +74,12 @@ The analysis was conducted using Python with the following libraries:
 |- Data
 
      |-Telecom.csv
+     
+|- images
 
 |- LICENSE
+
+|- Presentation.pdf
 
 |- README.md
   
